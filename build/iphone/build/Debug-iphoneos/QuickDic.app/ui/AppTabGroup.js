@@ -1,0 +1,1 @@
+/Users/kazkonno/source/QuickDict/Resources/ui/AppTabGroup.js

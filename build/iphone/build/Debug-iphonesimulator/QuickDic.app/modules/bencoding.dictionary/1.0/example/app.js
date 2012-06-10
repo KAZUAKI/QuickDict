@@ -1,0 +1,1 @@
+/Users/kazkonno/source/QuickDict/modules/iphone/bencoding.dictionary/1.0/example/app.js

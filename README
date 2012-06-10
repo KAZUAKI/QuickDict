@@ -1,4 +1,4 @@
-This dictinary app is using iOS5 built-in dictionary. (English-Japanese/English-English)
+This dictionary app is using iOS5 built-in dictionary. (English-Japanese/English-English)
 I'd been using this for myself and it's handy. So I decided to share this.
 
 According to Apple developer's class reference for UIReferenceLibraryViewController, it can not be used for standalone app.

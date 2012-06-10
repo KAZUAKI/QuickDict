@@ -45,7 +45,7 @@ function AppWindow(title) {
 
 	var table = Ti.UI.createTableView({
 		data : [Ti.UI.createTableViewRow({
-			title : '英和：Japanese - English',
+			title : '英和：English - Japanese',
 			value : 'ja',
 			font  : {fontSize:16,fontFamily:'Maven Pro',fontWeight:'normal'}
 		}), Ti.UI.createTableViewRow({

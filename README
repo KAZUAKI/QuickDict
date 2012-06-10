@@ -1,0 +1,39 @@
+This dictinary app is using iOS5 built-in dictionary. (English-Japanese/English-English)
+I'd been using this for myself and it's handy. So I decided to share this.
+
+According to Apple developer's class reference for UIReferenceLibraryViewController, it can not be used for standalone app.
+http://developer.apple.com/library/ios/#documentation/uikit/reference/UIReferenceLibraryViewControllerClassRef/Reference/Reference.html
+
+
+I used the following modules. Thanks Ben!
+https://github.com/benbahrenburg/benCoding.Dictionary
+
+As for popover effect, I used the following. Thanks Matt!
+https://github.com/mattapperson/TiPopover/
+
+Also I needed to make the following module by myself. Because UIReferenceLibraryViewController detect device language and I could not show English-English dictionary. So this module overrides the language.
+https://github.com/KAZUAKI/TiLanguageSet
+
+
+This has not been finished project. So there are some problems.
+
+
+
+Welcome to your Appcelerator Titanium Mobile Project
+
+This is a blank project.  Start by editing your application's app.js to 
+make your first mobile project using Titanium.
+
+
+
+----------------------------------
+Stuff our legal folk make us say:
+
+Appcelerator, Appcelerator Titanium and associated marks and logos are 
+trademarks of Appcelerator, Inc. 
+
+Titanium is Copyright (c) 2008-2012 by Appcelerator, Inc. All Rights Reserved.
+
+Titanium is licensed under the Apache Public License (Version 2). Please
+see the LICENSE file for the full license.
+

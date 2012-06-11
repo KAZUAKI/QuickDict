@@ -1,6 +1,6 @@
 ## Quick Dictionary
 
-![画像1](https://github.com/KAZUAKI/QuickDict/blob/master/screen.png)
+![画像1](https://github.com/KAZUAKI/QuickDict/raw/master/screen.png)
 
 
 This dictionary app is using iOS5 built-in dictionary. (English-Japanese/English-English)

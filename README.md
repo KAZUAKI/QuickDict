@@ -1,6 +1,6 @@
 ## Quick Dictionary ## 
 --------
-![画像1](https://github.com/KAZUAKI/QuickDict/screen.png "QuickDictionary screenshot")
+![画像1](https://github.com/KAZUAKI/QuickDict/screen.png)
 
 This dictionary app is using iOS5 built-in dictionary. (English-Japanese/English-English)
 I'd been using this for myself and it's handy. So I decided to share this. 

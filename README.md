@@ -1,6 +1,7 @@
-## Quick Dictionary ## 
---------
+## Quick Dictionary
+
 ![画像1](https://github.com/KAZUAKI/QuickDict/screen.png)
+
 
 This dictionary app is using iOS5 built-in dictionary. (English-Japanese/English-English)
 I'd been using this for myself and it's handy. So I decided to share this. 
@@ -15,7 +16,7 @@ According to Apple developer's class reference for UIReferenceLibraryViewControl
 
 
 ### Modules I used
---------
+
 1. [benCoding.Dictionary module](https://github.com/benbahrenburg/benCoding.Dictionary "リンクのタイトル")
     * This module call iOS5 built-in dictionary. Thanks Ben!
 2. [popover](https://github.com/mattapperson/TiPopover/)
@@ -23,7 +24,7 @@ According to Apple developer's class reference for UIReferenceLibraryViewControl
 
 
 ### Module I made
---------
+
 Also I needed to make the following module by myself. Because UIReferenceLibraryViewController detect device language and I could not show English-English dictionary. So this module overrides the language.
 
 [TiLanguageSet](https://github.com/KAZUAKI/TiLanguageSet)
